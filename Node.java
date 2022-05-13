@@ -2,7 +2,7 @@ package hashtable;
 
 public class Node<K, V>
 {
-	    K key;
+	 K key;
 	    V value;
 	    Node<K, V> next;
 
